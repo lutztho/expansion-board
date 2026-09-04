@@ -10,9 +10,9 @@ Custom expansion board designed for the Seeed Studio XIAO nRF52840 paired with t
 ## 📸 Gallery
 
 <p float="left">
-  <img src="images/preview.jpg" width="32%" alt="Preview Render" />
-  <img src="images/top-view.jpg" width="32%" alt="Top View" />
-  <img src="images/bottom-view.jpg" width="32%" alt="Bottom View" />
+  <img src="images/preview.jpeg" width="32%" alt="Preview Render" />
+  <img src="images/top-view.jpeg" width="32%" alt="Top View" />
+  <img src="images/bottom-view.jpeg" width="32%" alt="Bottom View" />
 </p>
 
 ## 📋 Bill of Materials (BOM)
