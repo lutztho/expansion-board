@@ -16,8 +16,14 @@ Custom expansion board designed for the Seeed Studio XIAO nRF52840 paired with t
 </p>
 
 ## 📋 Bill of Materials (BOM)
-See the detailed component list and supplier links in [bom.md](bom.md).
+
+| Qty | Component / Description | Estimated Cost | Source / Links |
+| :--- | :--- | :--- | :--- |
+| 1x | Custom PCB (JLCPCB) | ~$3.00 + shipping | [JLCPCB](https://jlcpcb.com) |
+| 2x | Pogo Pins (3.0mm, DIP) | ~$0.30 / pc | [AliExpress Link](https://de.aliexpress.com/item/1005008633095807.html) |
+| 1x | JST PH 2.0 Connector (2-Pin, 2.0mm pitch) | ~$0.02 / pc | [AliExpress Link](https://de.aliexpress.com/item/1005004955655144.html) |
 
 ## 📁 Repository Structure
+- **`images/`** - Directory containing preview and layout gallery JPEGs.
 - **`fabrication/`** - Production archive (`XIAO.zip`) containing Gerber and drill files ready for JLCPCB.
 - **Root files** - KiCad schematic (`.kicad_sch`), PCB layout (`.kicad_pcb`), and project files.
